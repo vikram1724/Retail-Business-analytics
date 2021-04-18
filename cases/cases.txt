@@ -1,0 +1,47 @@
+Predictive Analytics Use Cases In The Retail Industry
+We are all aware of the troves of data, retail businesses generate on a daily basis. However, this repository of critical data 
+
+is worthless if it cannot be translated into valuable insights into the consumer’s minds or market trends. While all of the data is being generated and collected, it is not being used efficiently. This paves way for decision-makers to employ predictive analytics to derive the best value of all the data gathered and ensure better sales outcomes in the near future.
+
+Predictive analytics is a proactive approach, whereby retailers can use data from the past to predict expected sales growth, due to change in consumer behaviours and/or market trends. This can help retailers stay ahead of the curve, compete effectively and gain considerable market share.
+
+
+Let’s study the following use cases which are currently in use in various leading retails companies to have better understanding of the value of predictive analytics in the retail industry.
+
+
+Predictive Analytics Use Cases In The Retail Industry
+1. Behaviour Analytics
+Some of the key challenges for retail firms are – improving customer conversion rates, personalizing marketing campaigns to increase revenue, predicting and avoiding customer churn, and lowering customer acquisition costs. These can be tackled with deeper, data-driven insights on the customer. But today, there are several different interaction points for consumers to interact with their companies, mobile, social media, stores, e-commerce sites and more. This causes a substantial increase in the complexity and diversity of data you may have to accumulate and analyse.
+When all this data is collated and analyzed, it can provide insights that you may have never considered before — for example, recognizing your high value customers, their motives behind the purchase, their buying patterns behaviours, and which are the best channels to market to them and when. Having these detailed insights increases the probability of customer acquisition and perhaps drive their loyalty towards you.
+Engineering of this data is the key to opening doors to invaluable insights about the purchase behaviour of your customer.
+2. Using Big Data To Personalize In-Store Experience
+Due to lack of a fool-proof and effective way to measure the specific impact of merchandising decisions, merchandising has always been considered an art form in the past, associated with aesthetics and not much else. With the substantial increase in online sales, a new shopping format has emerged whereby the consumer physically research the desired products in-store and then go ahead and purchase it online.
+Due to the emergence of people-tracking technology, new ways to analyse in-store behaviour and assess the impact of merchandising efforts have developed. To optimize merchandising tactics, a data engineering platform can be of great help to retailers. They can personalize the in-store experience to establish and drive loyalty by giving offers to incentivise frequent consumers to make more purchases thereby achieving higher sales across all channels.
+These insights can help increase promotional effectiveness, drive cross-selling, and much more. These insights can be obtained from several sources such as:
+•	Websites
+•	Point-of-sale systems
+•	Loyalty Card data
+•	Mobile apps
+•	Supply chain systems
+•	In-store sensors
+•	CCTV Cameras
+Using data and predictive analytics, omni-channel retailers will be able to:
+•	Run pilots and measure the impact of different marketing and merchandising tactics on customer behaviour and resulting sales. This can also help reduce sunk costs in inventory that is not as popular as some of the others.
+•	Personalize in-store services for customers by using their purchase and browsing history to identify their needs and interests. This is especially useful to drive impulsive purchases.
+•	Observe in-store customer behaviour, and study data to analyse and categorise the customer to better the sales incentivization and other such offers.
+3. Customer Journey Analytics
+Today it is very easy for customers to access any kind of information using channels like mobile, social media and e-commerce. This makes decision of buying and purchases convenient for the customers.
+At the same time, customers have started expecting much more from businesses, like providing consistent information, seamless experiences across channels that reflect history, preferences and interests. Marketers need to continuously adapt with understanding and connecting with their customers. This is possible when retailers have data-driven insights which help you understand each customer’s profile and history across channels.
+You’ll be able to solve to complex retail queries such as:
+•	Activities on every step in the customer journey
+•	Your high-value customers and their behaviour
+•	The best possible way to reach them
+4. Analytics On Operation And Supply Chains
+Faster product life cycles and ever-complex operations tend to make retailers use big data analytics to understand supply chains and product distribution to reduce costs. It is crucial for retailers to gain a competitive edge in order to drive business performance and returns. Retailers are well aware of the immense pressure to optimize asset utilization, budgets, performances and service quality.
+To increase operational efficiency, the key is use them to unlock insights hidden in log, sensor and machine data. Such insights which include information about trends, patterns and outliers, improve decisions, operations performance and reduce costs.
+5. Trade Promotions Optimization
+A report by Booz Allen states that a significant portion of the retailers lose over one-thirds of the money invested in trade promotions. This is mainly due to the inability of decision-makers to measure trade promotion effectiveness and ROI and profitably optimize spend by leveraging data.
+Most CPG companies are still reliant on spreadsheets or ERP or TPM systems to optimize trade promotions. Any robust Trade promotion optimization software should be equipped with advanced analytics. Predictive analytics together with Prescriptive analytics can harness large amount of real-time unstructured and structured data from several market and consumer touch points and transform it into actionable recommendations to help run the right trade promotions. A trade promotion optimization software equipped with Predictive analytics also help you build what-if scenarios to forecast sales for various promotion combinations.
+Conclusion
+Predictive analytics has enabled the exploration and union of large sets of structured and unstructured data to uncover hidden patterns and new correlations between trends, customer insights and other useful business information.
+To maintain a competitive edge in an fast-growing marketplace, it is becoming increasingly necessary for retail companies to look for proactive methods of harnessing new and extensive data sources in unique ways. Analytics can help retailers achieve deeper understanding of their customer data and offer actionable insights that will transform a market laggard into a leader.
