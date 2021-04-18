@@ -1,0 +1,119 @@
+Use Cases of Data Science in Retail – How tech giants are using it?
+Data Science in Retail, let’s start understanding the applications of data science in retail sector with an example.
+
+Data Science in retail example 
+
+The analytics team of Target sat down and figured out how to tell if a customer might be pregnant, even before any announcement was made.
+
+By analyzing the purchasing trends of its customers, it turned out they could not only assign a level of likelihood that the customer was pregnant, but could even predict a probable due-date.
+
+Target figured out how to data-mine its way into a lady’s womb.
+
+Using that information, the retail company started to mix in offers sent to those customers to include fetal items along with regular coupons.
+
+Almost every industry has been in one way or another affected by the emergence of data science technologies. The retail sector is no exception.
+
+Data science provides a great opportunity for retailers to take advantage of the customer data they own and turn it into actionable insights that will end up boosting revenue. Well, that is the ultimate motive, right?
+
+Data Science in Retail
+Recommendation Engines
+Fraud Detection
+Powering Augmented Reality
+Personalized Marketing
+Price Optimization
+Intelligent cross-selling and upselling
+Inventory management
+Customer sentiment analysis
+Foretelling trends through social media
+Managing real estate
+Customer lifetime value prediction
+
+
+1. Recommendation engines
+It is a system that filters the information and predicts user’s preferences, while they’re browsing the Internet. It is proved to be a great tool for retailers to predict customers’ behavior.
+
+By providing recommendations, customers are able to identify trends and increase their sales and hence the revenue.
+
+2. Fraud Detection
+Data Science and Machine Learning techniques such as Deep Neural Networks (DNNs) are being used to detect frauds in business transactions.
+
+Due to the growth of online transactions, shopping, banking, filing insurance claims, etc fraud has become a major problem for these companies and they are investing a lot of resources to recognize and prevent frauds.
+
+Traditional approach to fraud detection are rule-based which is just a race between criminal finding ways and seller’s fraud detection system. The traditional approach is not flexible, our modern approach makes use of the huge amount of data collected from online transactions and predict fraud transactions.
+
+Trending on DataFlair – Credit Card Fraud Detection
+
+3. Powering Augmented Reality
+A multinational company TopShop, has been experimenting with new technologies to implement augmented reality in the shopping experience.
+
+Customers can choose clothes and see what they look like without actually wearing them. This helps in making decisions faster and saves the time and effort of customers.
+
+The furniture company IKEA has rolled out image recognition and augmented reality for the first time in their 2013 catalogue presentation. The customers can scan catalogue items and virtually place them in their homes to see what they look like.
+
+They can also select the colors and sizes that suits them the best and they don’t even have to go out to buy products.
+
+4. Personalized Marketing
+This is a system used by retailers to integrate personalized recommendations based on their users browsing history, past purchases, likes, and dislikes. It also lets retailers create highly targeted campaigns that increase ROI.
+
+All this is possible if retailers have data and they have the ability to extract meaningful insights from it.
+
+Typically, this is where data science comes to the rescue. By leveraging the customer data from various customer data platforms, predictions about what the customers will do next can be made.
+
+For example- Vedic hair care introduced a marketing scheme to engage the audience by providing them with customized products. They suggest products according to the concerns and preferences of their customers.
+
+5. Price optimization
+A significant advantage brought by the optimization mechanisms is having the right price for both the customer and the retailer. Price optimization tools include a number of online tricks and customers approach (which is done secretly).
+
+The data that is gained from the multichannel sources is analyzed. It helps to define the flexibility of prices, the location of the customer, the buying attitude of a customer, season of purchase and the competitors’ pricing.
+
+Using a real-time optimization model the retailers have an opportunity to attract the customers, to retain the attention and to realize personal pricing schemes.
+
+Essentially, it also helps retailers give shoppers prices they view as fair on the products they care most about which in turn, boosts consumer pricing perception and retailer profitability.
+
+6. Intelligent cross-selling and upselling
+In the retail industry, cross-selling and upselling is practiced by all companies in order to improve their revenue. Cross-selling is the practice to recommend complementary products to customers for their buyings.
+
+While upselling is the practice to give customers an option to buy a high-end product which is better than the one they are considering.
+
+Using Data Science in retail can help increase profits without running A/B tests. With data science, we can make personalized offers to different customer segments and gain more profits.
+
+7. Inventory management
+Retailers try to predict how much of a specific product or service customers may want to purchase during a certain time period. This demand forecasting helps them to stock goods in order to use them in the time of crisis.
+
+The main aim of the retail business is to provide its customers with a proper product at the right time, in a proper condition, at a proper place.
+
+Retailers use various data analysis platforms and machine learning algorithms to identify and detect patterns and correlation among supply chains. It helps to define the optimal stock and inventory strategies.
+
+Patterns that are identified are related to sales trends and strategies are made to optimize the delivery of goods and manage the stock.
+
+8. Customer sentiment analysis
+It is a brand-new data science tool that is popularly being used in the retail industry.
+
+So, traditionally retailers used focus groups and customer polls to analyze customer’s experience with the product. This was a time-consuming process and a bit expensive too.
+
+The customer sentiment analysis is done with the help of data that is received from social media networks and online services feedbacks. These sources are readily available, fast and free of cost.
+
+Retailers perform analysis on the basis of natural language processing, text analysis to extract defining positive, neutral or negative sentiments. The output received is in the form of ratings and reviews given by customers.
+
+This is done so that retailers are able to provide better customer services in the future.
+
+9. Foretelling trends through social media
+Social media is an enormous platform and people express everything through social media. As a retailer, there is very valuable information on social media that can help you identify trends.
+
+Social media mainly consists of unstructured data, which is a huge amount of texts, images, and videos. Techniques like Natural Language Processing (NLP) are used to extract information through social media. The information is then used to identify trends and predict what customers will like to buy.
+
+10. Managing Real Estate
+Data science can help large retailers to optimize their real estate management spendings. Analyzing the maintenance data of different equipment in a building will prevent catastrophic failure events from happening.
+
+Retailers can save their money by efficiently using the expenditure by analyzing historical data and predicting the parts of maintenance. Data science not only establishes a budget but also looks for improvements in properties like shopping malls.
+
+An American real estate company Zillow, has developed a ‘Zestimate’ prediction which is used to predict how the pricing of the property will change over five to ten years from now.
+
+11. Customer lifetime value prediction
+In the retail sector, customer lifetime value (CLV) is the total profits that a customer can bring to the company over the entire customer-business relationship.
+
+Major attention is paid to the revenues that is calculated by customer’s previous purchases, gaps between purchases and the number of repeat orders.
+
+The CLV models collect, filter and clean the data concerning customers’ preferences, expenses, purchases and behavior to particular product and their prices to structure them into the input.
+
+After carefully processing the data, retailers get an idea of the possible value of the existing and possible customers. Data science statistical methodologies and machine learning algorithms help the retailers to understand their customers and the need for improvement in products or services.
