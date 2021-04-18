@@ -1,0 +1,27 @@
+What is Retail Analytics?
+Retail analytics focuses on providing insights related to sales, inventory, customers, and other important aspects crucial for merchants’ decision-making process.
+The discipline encompasses several granular fields to create a broad picture of a retail business’ health, and sales alongside overall areas for improvement and reinforcement.
+Essentially, retail analytics is used to help make better choices, run businesses more efficiently, and deliver improved customer service analytics.
+The field of retail analysis goes beyond superficial data analysis, using techniques like data mining and data discovery to sanitize datasets to produce actionable BI insights that can be applied in the short-term.
+Moreover, companies use these analytics to create better snapshots of their target demographics. By harnessing sales data analysis, retailers can identify their ideal customers according to diverse categories such as age, preferences, buying patterns, location, and more.
+See it in action:
+ Explore Dashboard
+
+Essentially, the field is focused not just on parsing data, but also defining what information is needed, how best to gather it, and most importantly, how it will be used.
+By prioritizing retail analytics basics that focus on the process and not exclusively on data itself, companies can uncover stronger insights and be in a more advantageous position to succeed when attempting to predict business and consumer needs.
+What Can I Use Retail Analytics For?
+There are several excellent retail analytics examples that are relevant to a variety of companies.
+One of the biggest benefits the field delivers to companies is optimizing their inventory and procurement.
+Thanks to predictive tools, businesses can use historical data and trend analysis to determine which products they should order, and in what quantities instead of relying exclusively on past orders.
+In addition, they can optimize inventory management to emphasize products customers need, reducing wasted space and associated overhead costs.
+See it in action:
+ Explore Dashboard
+
+Apart from inventory activities, many retailers use analytics to identify customer trends and changing preferences by combining data from different areas.
+By merging sales data with a variety of factors, businesses can identify emerging trends and anticipate them better. This is closely tied to marketing functions, which also benefit from analytics.
+See it in action:
+ Explore Dashboard
+
+Companies can harness retail analytics to improve their marketing campaigns by building an improved understanding of individual preferences and gleaning more granular insights.
+By blending demographic data with information such as shopping habits, preferences, and purchase history, companies can create strategies that focus on individuals and exhibit higher success rates.
+
